@@ -1,0 +1,2 @@
+# IP-Shower
+This plugin adds commands, which you can use to see the IP addresses of other players. The plugin automatically hides the IPs of administrators, because nowadays players often use the so called "flood", especially against the admins. The option for IP hiding can be disabled by a cvar. A menu can be used to check the IP of a specific player. Some forums require date and time when reporting players, so this plugin will automatically display them when using a command.
