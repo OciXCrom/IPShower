@@ -420,8 +420,6 @@ form_hidden_ip(szIP[32])
 			if(iCommas > 1)
 				szIP[i] = '*'
 	}
-	
-	
 }
 
 bool:is_admin(id)
